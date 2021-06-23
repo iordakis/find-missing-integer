@@ -3,6 +3,8 @@ A simple iterative way of finding any missing integer in a sorted array
 
 Example output with the current array:
 
+[1,2,4,5,6,7,8,9,11,12,15,19,33,35] - converted to array using np.array()
+
 3 is missing
 10 is missing
 13 is missing

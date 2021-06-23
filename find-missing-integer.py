@@ -1,5 +1,5 @@
 # https://github.com/iordakis/
-# issue: A simple iterative way of finding any missing integer in a sorted array
+# A simple iterative way of finding any missing integer in a sorted array
 import numpy as np
 
 # example array with missing integers (a list can also be used)
